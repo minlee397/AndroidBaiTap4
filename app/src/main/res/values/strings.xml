@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaiTap4</string>
+    <string name="strTitlePlace">PLACE OF HCM CITY</string>
+    <string name="mapit">Map it</string>
+    <string name="moreinfo">More Info</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
